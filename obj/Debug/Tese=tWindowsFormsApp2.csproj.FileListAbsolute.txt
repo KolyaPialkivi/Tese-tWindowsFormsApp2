@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\bin\Debug\Tese=tWindowsFormsApp2.exe.config
+C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\bin\Debug\Tese=tWindowsFormsApp2.exe
+C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\bin\Debug\Tese=tWindowsFormsApp2.pdb
+C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\obj\Debug\Tese=tWindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\obj\Debug\Tese=tWindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\obj\Debug\Tese_tWindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\obj\Debug\Tese=tWindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\obj\Debug\Tese=tWindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\obj\Debug\Tese=tWindowsFormsApp2.exe
+C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\obj\Debug\Tese=tWindowsFormsApp2.pdb
