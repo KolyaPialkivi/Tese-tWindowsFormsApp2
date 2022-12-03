@@ -8,3 +8,4 @@ C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\obj\Deb
 C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\obj\Debug\Tese=tWindowsFormsApp2.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\obj\Debug\Tese=tWindowsFormsApp2.exe
 C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\obj\Debug\Tese=tWindowsFormsApp2.pdb
+C:\Users\User\source\repos\Tese=tWindowsFormsApp2\Tese=tWindowsFormsApp2\obj\Debug\Tese_tWindowsFormsApp2.Form1.resources
